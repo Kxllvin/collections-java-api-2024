@@ -2,7 +2,6 @@ package main.list.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
-import main.list.OperacoesBasicas.*;
 
 public class CarrinhoDeCompras<Item> {
     //atributos
