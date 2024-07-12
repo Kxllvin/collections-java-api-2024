@@ -55,7 +55,6 @@ public class OrdenarNumeros {
     public static void main(String[] args) {
       // Criando uma instância da classe OrdenacaoNumeros
     OrdenarNumeros numeros = new OrdenarNumeros();
-    //int arr = 0;
     
     // Adicionando números à lista
     for (int i = 0; i < 10; i++){
